@@ -32,7 +32,7 @@
 
     
     <!-- Custom styles for this template -->
-    <link href="cover.css" rel="stylesheet">
+    <link href="aplicacao.css" rel="stylesheet">
   </head>
   <body class="d-flex h-100 text-center text-white bg-dark">
     
@@ -42,8 +42,8 @@
       <h3 class="float-md-start mb-0">Cobrir</h3>
       <nav class="nav nav-masthead justify-content-center float-md-end">
         <a class="nav-link active" aria-current="page" href="#">Início</a>
-        <a class="nav-link" href="#">Novidades</a>
-        <a class="nav-link" href="#">Contatos</a>
+        <a class="nav-link" href="#">Cadastre-se</a>
+        <a class="nav-link" href="#">Log in</a>
       </nav>
     </div>
   </header>
